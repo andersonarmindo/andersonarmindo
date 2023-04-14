@@ -1,6 +1,6 @@
 ### Hello! I'm Anderson Armindo.👋
 
-I'm a young Mozambican programmer, finalist of the Computer Engineering and Telecommunications course at the Instituto Superior de Transportes e Telecomunicações (ISUTC), in Maputo.
+I'm a young Mozambican programmer, finalist of the Computer Engineering and Telecommunications course at the Instituto Superior de Transportes e Comunicações (ISUTC), in Maputo.
 
 ## Contact
 
